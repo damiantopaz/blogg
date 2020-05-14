@@ -1,2 +1,2 @@
 # blogg
-A blogging application
+A blogging application by Damian Topaz
